@@ -1,3 +1,6 @@
 googlechrome,116.0.5845.187,https://chromereleases.googleblog.com/2023/09/stable-channel-update-for-desktop_11.html
-microsoftedgeconsumerstable,114.0.1823.41,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#june-6-2023
-firefox,100.0.2,https://www.mozilla.org/en-US/security/advisories/mfsa2022-19/
+microsoftedgeconsumerstable,116.0.1938.81,https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnotes-security#september-12-2023
+firefox,117.0.1,https://www.mozilla.org/en-US/security/advisories/mfsa2023-40/
+adobeacrobatprodc,23.006.20320,https://helpx.adobe.com/security/products/acrobat/apsb23-34.html
+adobereaderdc,23.006.20320,https://helpx.adobe.com/security/products/acrobat/apsb23-34.html
+adobereaderdc-update,23.006.20320,https://helpx.adobe.com/security/products/acrobat/apsb23-34.html
